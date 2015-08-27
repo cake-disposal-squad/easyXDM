@@ -1,0 +1,13 @@
+{
+  "name": "easyxdm",
+  "version": "2.4.19",
+  "description": "",
+  "main": "lib/easyXDM.js",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cake-disposal-squad/easyXDM.git"
+  },
+  "author": "",
+  "license": "MIT"
+}
