@@ -2,11 +2,14 @@
   "name": "easyXDM",
   "version": "2.4.19",
   "description": "",
-  "main": "lib/easyXDM.js",
-  "homepage": "",
+  "main": "artifacts/v2.4.19/easyXDM.js",
+  "homepage": "http://easyxdm.net/",
   "repository": {
     "type": "git",
     "url": "git://github.com/cake-disposal-squad/easyXDM.git"
+  },
+  "scripts": {
+    "install": "node build.js"
   },
   "author": "",
   "license": "MIT"
